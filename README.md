@@ -1,5 +1,5 @@
-# Dianne De Jesús
-<img src="banner.png" alt="name with pineaple pc background collage">
+
+# <img src="banner.png" alt="name with pineaple pc background collage">
 <h1 align="center">Hi 👋, I'm Dianne</h1>
 <h3 align="center">A passionate full-stack developer from Puerto Rico</h3>
 
