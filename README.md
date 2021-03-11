@@ -1,7 +1,7 @@
 
 # <img src="banner.png" alt="name with pineaple pc background collage">
-<h1 align="center">Hi 👋, I'm Dianne</h1>
-<h3 align="center">A passionate full-stack developer from Puerto Rico using my software engineering skills to build a wide variety of online utilities and actively expanding my coding knowledge.</h3>
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center">I'm passionate full-stack developer from Puerto Rico using my software engineering skills to build a wide variety of online utilities and actively expanding my coding knowledge.</h3>
 
 - 👨‍💻 All of my projects are available at [diannedejesus.netlify.app](diannedejesus.netlify.app)
 
