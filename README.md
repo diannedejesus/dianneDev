@@ -12,9 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dianne_djs" target="blank">
-  <svg>
-    <img align="center" style="background-color: #FFFFFF;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dianne_djs" height="30" width="40" />
-  </svg>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Twitter-Logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
+    <img align="center" alt="Shows a black twitter logo in light color mode and a blue one in dark color mode." src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dianne_djs" height="30" width="40" />
+  </picture>
 </a>
 <a href="https://linkedin.com/in/diannedejesus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diannedejesus" height="30" width="40" /></a>
 </p>
