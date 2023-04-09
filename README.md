@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/dianne_djs" target="blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Twitter-Logo2.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
     <img align="center" alt="Shows a black twitter logo in light color mode and a blue one in dark color mode." src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dianne_djs" height="30" width="40" />
   </picture>
